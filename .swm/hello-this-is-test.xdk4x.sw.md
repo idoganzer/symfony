@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.10-0
 ---
 
-BLA `📄 src/Symfony/Bridge/PhpUnit/ClassExistsMock.php`
+BLA `📄 ./src/Symfony/Bridge/PhpUnit/ClassExistsMock.php`
 
 <br/>
 
